@@ -47,14 +47,11 @@
 ## 📡 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/marcelino-tharwat/">
     <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:marclenotharwat@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=x&logoColor=00FF9C" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00FF9C" />
@@ -71,6 +68,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <i>⭐ من ملفي الشخصي؟ سيب نجمة على أي مشروع عجبك!</i>
-</p>
+
