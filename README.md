@@ -30,8 +30,19 @@
 
 ## ⚔️ Tech Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,nextjs,jquery,jest,vite,npm,nodejs,express,redis,mongodb,postgres,supabase,git,github,docker,postman,vercel&theme=dark" />
+### 🌐 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,jquery&theme=dark" />
+</p>
+
+### ⚙️ Back-End & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,supabase&theme=dark" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,vite,jest,postman,git,github,docker,vercel&theme=dark" />
 </p>
 
 ---
