@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=00ff9c&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=marcelino-tharwat&label=Profile%20Views&color=00ff9c&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/marcelino-tharwat?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" alt="followers"/>
   <img src="https://img.shields.io/badge/Status-🟢%20Online-00FF9C?style=for-the-badge&labelColor=0f0c29" alt="status"/>
 </p>
 
@@ -17,13 +17,13 @@
 ## 🎮 Player Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0f0c29&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelino-tharwat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelino-tharwat&theme=dark&hide_border=true&background=0f0c29&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00FF9C&line=00FF9C&point=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelino-tharwat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelino-tharwat&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00FF9C&line=00FF9C&point=ffffff" width="48%" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🏆 Achievements Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marcelino-tharwat&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
