@@ -39,7 +39,7 @@
 ## 🏆 Achievements Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcelino-tharwat&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="github-profile-trophy-wine-pi.vercel.app/?username=marcelino-tharwat&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
 ---
