@@ -17,12 +17,12 @@
 ## 🎮 Player Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelino-tharwat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats-fawn-six.vercel.app/api?username=marcelino-tharwat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&icon_color=00FF9C&text_color=ffffff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelino-tharwat&theme=dark&hide_border=true&background=0f0c29&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelino-tharwat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats-fawn-six.vercel.app/api/top-langs/?username=marcelino-tharwat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0c29&title_color=00FF9C&text_color=ffffff" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelino-tharwat&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00FF9C&line=00FF9C&point=ffffff" width="48%" />
 </p>
 
